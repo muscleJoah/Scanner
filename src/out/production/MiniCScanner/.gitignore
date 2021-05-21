@@ -1,0 +1,8 @@
+/.classpath
+/.idea/
+/.project
+/MiniCScanner.iml
+/Scanner.class
+/Token.class
+/TokenType.class
+/out/
